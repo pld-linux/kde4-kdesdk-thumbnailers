@@ -8,12 +8,12 @@
 
 Summary:	Thumbnailers
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	37ad2bc60b01f031dad9f4c3cad995b4
+# Source0-md5:	f919f0861da7a8e2096547a7fb108670
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
