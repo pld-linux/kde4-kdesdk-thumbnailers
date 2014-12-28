@@ -24,7 +24,7 @@ BuildRequires:	cmake >= 2.8.0
 BuildRequires:	db-devel
 BuildRequires:	docbook-dtd42-xml
 BuildRequires:	docbook-style-xsl
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	qca-devel >= 2.0.0
 BuildRequires:	qt4-build >= %{qtver}
 BuildRequires:	qt4-qmake >= %{qtver}
